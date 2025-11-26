@@ -1,0 +1,5 @@
+streamlit>=1.28.0
+mcp-agent>=0.0.14
+google-genai
+asyncio>=3.4.3
+PyYAML>=6.0
